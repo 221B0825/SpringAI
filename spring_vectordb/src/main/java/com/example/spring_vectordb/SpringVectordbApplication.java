@@ -1,13 +1,13 @@
-package com.ai.SpringAIDemo;
+package com.example.spring_vectordb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringAiDemoApplication {
+public class SpringVectordbApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringAiDemoApplication.class, args);
+		SpringApplication.run(SpringVectordbApplication.class, args);
 	}
 
 }

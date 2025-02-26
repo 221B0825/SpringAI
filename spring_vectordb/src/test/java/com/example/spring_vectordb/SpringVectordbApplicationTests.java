@@ -1,10 +1,10 @@
-package com.ai.SpringAIDemo;
+package com.example.spring_vectordb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringAiDemoApplicationTests {
+class SpringVectordbApplicationTests {
 
 	@Test
 	void contextLoads() {
