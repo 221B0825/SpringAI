@@ -79,7 +79,6 @@ SpringAI/
 - **Framework**: Spring Boot 3.4.1  
 - **Spring AI**: OpenAI, pgvector, PDF Reader  
 - **Database**: PostgreSQL (pgvector)
-
 ---
 
 ## 📧 Contact
